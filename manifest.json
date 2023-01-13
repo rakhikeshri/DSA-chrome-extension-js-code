@@ -1,0 +1,15 @@
+{
+    "name": "Quick Look at CODEs",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "popup.html",
+        "default_icon": "icon_150.png"
+    },
+    "icons": {
+        "150":"icon_150.png",
+        "128": "icon_128.png",
+        "19": "icon_19.png"
+    },
+    "permissions": ["activeTab"]
+}
